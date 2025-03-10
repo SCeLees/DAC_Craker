@@ -1,2 +1,2 @@
 # DAC_Craker
-什么鬼，破解次元反作弊???  What the hell, cracking DimensionAntiCheat???
+这个项目用于欺骗某个服务器的人们，破解反作弊
