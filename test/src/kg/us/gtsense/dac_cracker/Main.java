@@ -1,7 +1,5 @@
 package kg.us.gtsense.dac_cracker;
 
-import com.sun.tools.javac.Main;
-
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
@@ -10,15 +8,15 @@ import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 
-public class DAC_Cracker {
+public class Main {
     public static void main(String[] args) {
         // 显示欢迎信息
-        System.out.println("███████╗██╗   ██╗ ██████╗██╗  ██╗     ██████╗  █████╗  ██████╗\n" +
-                "██╔════╝██║   ██║██╔════╝██║ ██╔╝     ██╔══██╗██╔══██╗██╔════╝\n" +
-                "█████╗  ██║   ██║██║     █████╔╝█████╗██║  ██║███████║██║     \n" +
-                "██╔══╝  ██║   ██║██║     ██╔═██╗╚════╝██║  ██║██╔══██║██║     \n" +
-                "██║     ╚██████╔╝╚██████╗██║  ██╗     ██████╔╝██║  ██║╚██████╗\n" +
-                "╚═╝      ╚═════╝  ╚═════╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝\n");
+        System.out.println("██████   █████   ██████          ██████ ██████   █████   ██████ ██   ██ ███████ ██████  \n" +
+                "██   ██ ██   ██ ██              ██      ██   ██ ██   ██ ██      ██  ██  ██      ██   ██ \n" +
+                "██   ██ ███████ ██              ██      ██████  ███████ ██      █████   █████   ██████  \n" +
+                "██   ██ ██   ██ ██              ██      ██   ██ ██   ██ ██      ██  ██  ██      ██   ██ \n" +
+                "██████  ██   ██  ██████ ███████  ██████ ██   ██ ██   ██  ██████ ██   ██ ███████ ██   ██ \n" +
+                "                                                                                        ");
         System.out.println("欢迎使用去你的次元反作弊");
         System.out.println("**版本：beta 1.1**");
         System.out.println("**作者：GTSense**");
